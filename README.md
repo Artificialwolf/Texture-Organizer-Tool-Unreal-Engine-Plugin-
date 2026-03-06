@@ -9,24 +9,7 @@ Features
 • Helps maintain clean and organized projects
 • Designed for artists and technical artists
 
-Example
 
-Source folder:
-
-Textures
-T_Wood_D (1024)
-T_Rock_D (2048)
-T_Grass_D (512)
-
-After running the tool:
-
-SortedTextures
- 512
-   T_Grass_D
- 1024
-   T_Wood_D
- 2048
-   T_Rock_D
 
 Textures are automatically moved into the correct resolution folder.
 
