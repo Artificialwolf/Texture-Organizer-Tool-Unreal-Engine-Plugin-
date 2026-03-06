@@ -49,7 +49,7 @@ Usage
 
 Open the Texture Organizer Tool UI.
 
-Enter the Source Folder containing textures.
+Enter the Source Folder path and select all texture.
 
 Enter the Target Folder where sorted textures will be placed.
 
