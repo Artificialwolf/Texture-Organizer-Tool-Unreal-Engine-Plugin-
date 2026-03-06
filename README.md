@@ -30,7 +30,7 @@ Enable the plugin from:
 Edit → Plugins
 Usage
 
-Open the Texture Organizer Tool UI.
+Open the Texture Organizer Tool UI and right click Run widget.
 
 Enter the Source Folder path and select all texture.
 
